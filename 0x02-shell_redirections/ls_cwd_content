@@ -1,0 +1,24 @@
+total 56
+drwxr-xr-x 2 root root 4096 Dec  5 08:55 .
+drwxr-xr-x 6 root root  266 Dec  5 04:30 ..
+-rwxr--r-- 1 root root   30 Dec  5 04:20 0-hello_world
+-rwxr--r-- 1 root root   28 Dec  5 05:04 1-confused_smiley
+-rwxr--r-- 1 root root   26 Dec  5 05:03 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Dec  5 05:08 2-hellofile
+-rw-r--r-- 1 root root    0 Dec  5 05:07 2-hellofile~
+-rwxr--r-- 1 root root   39 Dec  5 05:12 3-twofiles
+-rw-r--r-- 1 root root    0 Dec  5 05:11 3-twofiles~
+-rwxr--r-- 1 root root   35 Dec  5 05:17 4-lastlines
+-rw-r--r-- 1 root root    0 Dec  5 05:16 4-lastlines~
+-rwxr--r-- 1 root root   35 Dec  5 05:20 5-firstlines
+-rw-r--r-- 1 root root    0 Dec  5 05:19 5-firstlines~
+-rwxr--r-- 1 root root   40 Dec  5 05:24 6-third_line
+-rw-r--r-- 1 root root    0 Dec  5 05:23 6-third_line~
+-rwxr--r-- 1 root root   83 Dec  5 07:50 7-file
+-rwxr--r-- 1 root root   95 Dec  5 05:58 7-file~
+-rwxr--r-- 1 root root   36 Dec  5 08:54 8-cwd_state
+-rw-r--r-- 1 root root    0 Dec  5 07:56 8-cwd_state~
+-rw-r--r-- 1 root root   17 Dec  5 05:47 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  801 Dec  5 05:30 iacta
+-rw-r--r-- 1 root root    0 Dec  5 05:29 iacta~
+-rw-r--r-- 1 root root    0 Dec  5 08:55 ls_cwd_content
